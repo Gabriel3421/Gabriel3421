@@ -17,7 +17,7 @@
 - 👯 Vai um xadrez? [Chess.com](https://www.chess.com/member/sweetxcyanide)♟
 
 <p align="center">
-<img ng-src="devicon.git/icons/react/react-original.svg" src="devicon.git/icons/react/react-original.svg">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> 
