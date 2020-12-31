@@ -1,5 +1,5 @@
 <!--
-**Gabriel3421/Gabriel3421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gabriel3421/Gabriel3421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
