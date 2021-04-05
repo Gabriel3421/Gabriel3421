@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **gabrielsouza.n.s@hotmail.com**
 
-- 🤔 se daily ```.js```,``` .css```, ```.ts```, ```.tsx```
+- 🤔 se daily ```.js```,``` .css```,``` .scss```, ```.ts```, ```.tsx```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
